@@ -1,2 +1,3 @@
-# RGBGuessingGame
-RGB Guessing Game
+# RGB Guessing Game
+
+This is simple web project that contains a rgb guessing game. given a rgb value, you must pick the colored block that represents the value.

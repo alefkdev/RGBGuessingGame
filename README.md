@@ -5,4 +5,4 @@ This is a simple web project that contains a rgb guessing game. given a rgb valu
 There's a .php file that only exists to allow us to deploy the project to Heroku.
 
 Here's the link to the deployed application:
-https://alef-colorgame.herokuapp.com/
+https://alef-colorgame.herokuapp.com/ (Doesn't work anymore. Maybe I'll host it somewhere else later.)
